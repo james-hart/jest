@@ -8,7 +8,7 @@
     "cover": "^0.2.9",
     "diff": "^2.1.1",
     "graceful-fs": "^4.1.2",
-    "istanbul": "^0.3.19",
+    "istanbul": "gotwarlost/istanbul#source-map",
     "jasmine-only": "^0.1.1",
     "jasmine-pit": "^2.0.2",
     "jsdom": "6.5.1",
